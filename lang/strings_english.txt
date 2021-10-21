@@ -1,0 +1,10 @@
+<?php
+$s_plugin_SugarCRM_title         = 'SugarCRM Integration Plugin';
+$s_plugin_SugarCRM_description   = 'SugarCRM Integration Plugin';
+
+$s_plugin_SugarCRM_configuration = 'Configuration';
+$s_plugin_SugarCRM_db_hostname   = 'Database Hostname';
+$s_plugin_SugarCRM_db_username   = 'Database Username';
+$s_plugin_SugarCRM_db_password   = 'Database Password';
+$s_plugin_SugarCRM_db_database   = 'Database Name';
+$s_plugin_SugarCRM_reset         = 'Reset Configuration';
