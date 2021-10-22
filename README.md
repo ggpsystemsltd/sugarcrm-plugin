@@ -1,4 +1,4 @@
-MantisBT Plugin for (limited) SugarCRM Integration
-==================================================
+SugarCRM Integration Plugin
+===========================
 
-Yeah.
+(Limited) integration between MantisBT and SugarCRM.
